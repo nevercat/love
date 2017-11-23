@@ -1,0 +1,46 @@
+﻿body 
+{
+    font: 60px Comic Sans MS;
+	
+}
+
+h3
+{
+    width: 500px;
+    line-height: 30px;
+    background-color: #CBB240;
+    padding: 0 10px;
+    margin: 60px 0 20px 0;
+}
+
+h4
+{
+    width: 300px;
+    line-height: 25px;
+    background-color: #f1d557;
+    padding: 0 10px;
+    margin: 10px 0;
+}
+
+p
+{
+    text-indent: 28px;
+}
+
+a
+{
+	text-decoration: none;
+}
+
+#yellow
+{
+	color:#FEF200;
+}
+#red
+{
+	color:#DC3C1E;
+}
+#blue
+{
+	color:#00AEEF;
+}
